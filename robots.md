@@ -1,3 +1,5 @@
+# Алгоритмы и управление: командный конкурс по дистанционному управлению роботом
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7jRCeQPLPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Автоматизациция вытеснит многие сегодняшние профессии, но также создаст новые рабочие места и рынки. 
